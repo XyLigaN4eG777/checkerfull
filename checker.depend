@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1643876377 source:c:\users\uchenik\desktop\checker\func.cpp
+	"checker.h"
+
+1643876287 c:\users\uchenik\desktop\checker\checker.h
+	<vector>
+	<iostream>
+
+1643876377 source:c:\users\uchenik\desktop\checker\main.cpp
+	"checker.h"
+
